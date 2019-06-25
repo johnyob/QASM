@@ -9,6 +9,9 @@ Usage:
 Options:
   -h --help                 Show this screen.
   --version                 Show version.
+
+Help:
+  For help using this client, please see https://github.com/johnyob/QASM
 """
 
 from importlib import import_module
