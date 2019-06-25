@@ -1,0 +1,22 @@
+{
+  "5" : [
+    {"Type": 1, "Error": "Expect qubit after pauli-x gate application instruction"}
+  ],
+  "6" : [
+    {"Type": 1, "Error": "Expect qubit after pauli-y gate application instruction"}
+  ],
+  "7" : [
+    {"Type": 1, "Error": "Expect qubit after pauli-z gate application instruction"}
+  ],
+  "8" : [
+    {"Type": 1, "Error": "Expect qubit after hadamard gate application instruction"}
+  ],
+  "9" : [
+    {"Type": 2, "Error": "Expect angle after phase shift gate application instruction"},
+    {"Type": 3, "Error": "Expect comma after angle in phase shift gate application instruction"},
+    {"Type": 1, "Error": "Expect qubit after comma in phase shift gate application instruction"}
+  ],
+  "10" : [
+    {"Type": 1, "Error": "Expect qubit after sqrt not gate application instruction"}
+  ]
+}
