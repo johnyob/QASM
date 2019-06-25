@@ -1,0 +1,25 @@
+[
+  {
+    "Module Identifier": "config.Setup",
+    "Class Identifier": "Setup",
+    "Conditions": [
+      "config",
+      "setup"
+    ]
+  },
+  {
+    "Module Identifier": "config.Show",
+    "Class Identifier": "Show",
+    "Conditions": [
+      "config",
+      "show"
+    ]
+  },
+  {
+    "Module Identifier": "Execute",
+    "Class Identifier": "Execute",
+    "Conditions": [
+      "execute"
+    ]
+  }
+]
