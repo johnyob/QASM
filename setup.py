@@ -3,7 +3,8 @@ import setuptools
 requires = [
     "docopt",
     "ascii-table>=0.0.2",
-    "numpy"
+    "numpy",
+    "quantum_computer_simulator"
 ]
 
 packages = [
@@ -15,11 +16,7 @@ packages = [
     "qasm.helpers",
     "qasm.error",
     "qasm.commands",
-    "qasm.commands.config",
-    "quantum_computer",
-    "quantum_computer.gates",
-    "quantum_computer.helpers",
-    "quantum_computer.simulator"
+    "qasm.commands.config"
 ]
 
 setuptools.setup(
