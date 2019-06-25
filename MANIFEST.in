@@ -1,0 +1,2 @@
+include qasm/commands.json
+include qasm/parser/syntax.json
